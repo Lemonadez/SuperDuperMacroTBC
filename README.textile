@@ -33,12 +33,6 @@ Most of these features may be configured. Check out the configuration panel ! (u
 ** Anchored: the bags expand from an anchor towards the center of the screen. The anchor can be unlocked and moved.
 ** Manual: move the bags by dragging their title.
 
-h2. Separate modules
-
-I have written two separate modules for AdiBags:
-* "AdiBags_Outfitter":https://www.curseforge.com/wow/addons/adibags_outfitter: add filters for "Outfitter":https://www.curseforge.com/wow/addons/outfitter item sets.
-* "AdiBags_PT3Filter":https://www.curseforge.com/wow/addons/adibags-pt3filter: add filters based on "LibPeriodicTable-3.1":https://www.curseforge.com/wow/addons/libperiodictable-3-1 categories.
-
 h2. Tips & tricks
 
 * you can create your own sections using the "manual filter" in filter configuration. You can then drag and drop items on section titles to reassign them ; this works for any section.
