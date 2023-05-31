@@ -1,2 +1,3 @@
 This is Ported from WOTLK to 2.4.3 WoW Addon.
-https://github.com/Lemonadez/SuperDuperMacroTBC/releases/download/untagged-7442a1307775eae73972/SuperDuperMacro.zip
+To Download Go to Release Section
+https://github.com/Lemonadez/SuperDuperMacroTBC/releases/
